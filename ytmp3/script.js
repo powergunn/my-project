@@ -1,5 +1,4 @@
-    <script>
-        const youtubeUrl = document.getElementById('youtube_url');
+const youtubeUrl = document.getElementById('youtube_url');
         const checkBtn = document.getElementById('checkVideo');
         const videoInfo = document.getElementById('videoInfo');
         const qualitySelector = document.getElementById('qualitySelector');
@@ -102,4 +101,3 @@
                 });
             }
         });
-    </script>
